@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Thoughts on Code</title>
+ <title>Thoughts</title>
  <link href="http://blog.skryl.org/atom.xml" rel="self"/>
  <link href="http://blog.skryl.org/"/>
- <updated>2018-06-05T18:24:53+00:00</updated>
+ <updated>2018-06-05T21:17:26+00:00</updated>
  <id>http://blog.skryl.org</id>
  <author>
    <name>Alex Skryl</name>
