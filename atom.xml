@@ -4,13 +4,179 @@
  <title>Thoughts</title>
  <link href="http://blog.skryl.org/atom.xml" rel="self"/>
  <link href="http://blog.skryl.org/"/>
- <updated>2018-06-05T21:28:10+00:00</updated>
+ <updated>2018-06-05T22:25:16+00:00</updated>
  <id>http://blog.skryl.org</id>
  <author>
    <name>Alex Skryl</name>
    <email>aleksey.skryl@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>P53</title>
+   <link href="http://blog.skryl.org/2015/01/15/p53/"/>
+   <updated>2015-01-15T00:00:00+00:00</updated>
+   <id>http://blog.skryl.org/2015/01/15/p53</id>
+   <content type="html">&lt;p&gt;Jack Thompson carefully placed Roger into his cage as Patrick Hughes entered the lab.&lt;/p&gt;
+
+&lt;p&gt;“Hey Jack. Yuri missed our weekly. Any idea where he is?” asked the Director, looking concerned.&lt;/p&gt;
+
+&lt;p&gt;“What?! He didn’t tell you?” replied Thompson, grinning.&lt;/p&gt;
+
+&lt;p&gt;“Tell me what?” inquired Hughes, reaching for a chair.&lt;/p&gt;
+
+&lt;p&gt;“P53! It worked! It … more than worked!” said Thompson in an excited whisper.
+He pulled up a chair next to Hughes, taking his time to contrive an explanation.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;“Pat, do you know why most living things don’t live forever?” Thompson asked.&lt;/p&gt;
+
+&lt;p&gt;Hughes pondered the question for a second. “Assuming they don’t die
+of disease or some unfortunate accident, it’s because they get old. Their cells
+become less efficient with age, having to work just as hard only to get less
+done. Current science blames it on DNA degradation, isn’t that right?”&lt;/p&gt;
+
+&lt;p&gt;“Yes! It’s a fidelity problem!” exclaimed Thompson, his eyes widening with
+excitement. “With every copy, our genome’s signal to noise ratio decreases,
+causing the cellular machinery to alter its behavior slightly. Over time, these
+small errors accumulate, usually leading to what we perceive as aging, and on
+rare occasion causing cancer and other nasties. Now, let me ask you this,”
+Thompson continued, “considering how universal senescence is, why do you think
+that nature hasn’t come up with a fix?”&lt;/p&gt;
+
+&lt;p&gt;Hughes sighed, getting impatient. “It’s a diminishing returns problem if I
+remember correctly. Complex organisms die from predation, disease, hunger, and a
+myriad of other causes, making their chances of living to old age slim to none.
+There is no evolutionary pressure to extend lifespan because animals don’t die
+of old age, they die from being eaten by other animals.” Hughes
+reached for a pen and a piece of paper. “Look here. If the probability of some
+creature dying in the span of a single day is 1/1000, then the probability of
+them surviving for 20 years is (999/1000)^(365*20)=0.067%, which is negligible.
+So, as long as they reach maturity and reproduce well before then, evolution
+will consider them fit. No reason to fix what’s not broken. Right?”&lt;/p&gt;
+
+&lt;p&gt;“I’m very impressed Dr. Hughes!” said Thompson smiling. “Anyhow, this is where
+P53 comes in. It is a retroviral gene therapy that was intended to be a cancer
+vaccine. It improves transcription fidelity and adds new mutation-triggered
+apoptosis pathways. A few things that nature overlooked. Here’s the kicker
+though, after vaccination, our simulations show no sign of DNA degradation over
+millennia. That’s thousands of years, Pat!”&lt;/p&gt;
+
+&lt;p&gt;“Wait!” Hughes interrupted. “Am I to understand that the two of you
+inadvertently created an immortality drug?”&lt;/p&gt;
+
+&lt;p&gt;“Roger is our first living test subject,” Thompson replied, glancing at the
+white mouse on the other side of the room. “But if the simulations are accurate,
+then he will outlive us all.”&lt;/p&gt;
+
+&lt;p&gt;“Who else knows about this?” Hughes asked, reaching for his phone.&lt;/p&gt;
+
+&lt;p&gt;“Olovnikov, myself, and now you,” said Thompson. “Why?”&lt;/p&gt;
+
+&lt;p&gt;“Brian?” Hughes spoke into the handset, “Code 42, lock us down plea…” before
+he finished his sentence, Yuri Olovnikov walked into the room. There was fear in
+the man’s eyes but it was overshadowed by righteous determination.&lt;/p&gt;
+
+&lt;p&gt;“King of kings, Lord of lords; Who only hath immortality, dwelling in the light
+which no man can approach unto…” Olovnikov mumbled, his voice trembling.
+“Forgive me.” His fingers tensed into a fist and the lab was suddenly awash in a
+brilliant white light.&lt;/p&gt;
+
+&lt;p&gt;As the dust from the explosion settled, a small white mouse ran out of the
+rubble into the grassy underbrush nearby. He had a long life ahead of him.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Uncertainty</title>
+   <link href="http://blog.skryl.org/2014/07/11/uncertainty/"/>
+   <updated>2014-07-11T00:00:00+00:00</updated>
+   <id>http://blog.skryl.org/2014/07/11/uncertainty</id>
+   <content type="html">&lt;p&gt;“Computer, report!” yelled the Captain.&lt;/p&gt;
+
+&lt;p&gt;“Sir, all primary systems are online but the star orientations do not match anything in my database.”&lt;/p&gt;
+
+&lt;p&gt;“What was our entry confidence?”&lt;/p&gt;
+
+&lt;p&gt;“It was six nines, sir.”&lt;/p&gt;
+
+&lt;p&gt;Captain Nurbek swallowed hard, “Show me the trajectory map.”&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;It looked like a water droplet in zero-g, slowly morphing while the computer was
+busy plotting all the possible routes the ship may have taken to arrive here.
+Nurbek was temporarily entranced by it’s beautiful complexity.&lt;/p&gt;
+
+&lt;p&gt;Lost in thought, he recalled the great men of the past. Men who believed in a
+deterministic universe, where one could predict the future by simply knowing
+enough about the present. It was an idea that was hopelessly wrong, yet
+perfectly seductive, because it made men feel like they could become gods. But
+much to Man’s dismay, the true gods had other plans.&lt;/p&gt;
+
+&lt;p&gt;Space has no shortcuts, he mused. Dreams of determinism died at the hands of
+Quantum Mechanics and General Relativity. But would he be any less screwed if
+the Universe was actually a Laplacian dream? No, it made no difference.
+Determinism was still susceptible to chaos, the law of nature which was
+responsible for his current snafu. Chaos is what made the long jumps effectively
+unpredictable and extremely sensitive to small errors in entry calculations. He
+simply made a wrong guess in a profession where bad guesses were the worst
+possible offense.&lt;/p&gt;
+
+&lt;p&gt;Six nines. Six fucking nines. He needed at least nine nines for a jump of this
+magnitude. But he was in the middle of a war zone. Any longer and the ship would
+have been blown to bits. Would waiting another second really have killed him? He
+would never know. All he knew was, he would be looking at the familiar starscape
+of the Virgo Cluster had he waited. Instead he was here. Somewhere. Nowhere, as
+far as the computer was concerned. He glanced back at the rotating shape on the
+screen.&lt;/p&gt;
+
+&lt;p&gt;He suddenly remembered his old physics professor running different colored
+threads through a blob of silly putty.&lt;/p&gt;
+
+&lt;p&gt;“Imagine the strings are flight trajectories and the putty is our little cosmos.
+Where would you need to enter the blob in order to come out with the red
+string?” asked the professor.&lt;/p&gt;
+
+&lt;p&gt;“Where the red string enters,” I replied, not seeing where he was going with
+this.&lt;/p&gt;
+
+&lt;p&gt;“What if you messed up your calcs and entered at the green one next to it?”&lt;/p&gt;
+
+&lt;p&gt;“Then you would come out close to your intended destination, where the green one
+does.”&lt;/p&gt;
+
+&lt;p&gt;“Right,” he said, “this is how space travel would work if space was linear. You
+could make a mistake and still get to where you were going.”&lt;/p&gt;
+
+&lt;p&gt;He mashed the putty in his hands for a few seconds, keeping the entry points of
+the strings untouched.&lt;/p&gt;
+
+&lt;p&gt;“Where do the two strings exit now?”&lt;/p&gt;
+
+&lt;p&gt;“Far apart,” I said after locating the strings in question.&lt;/p&gt;
+
+&lt;p&gt;“So what would happen if you messed up your entry calcs in this case?”&lt;/p&gt;
+
+&lt;p&gt;“I’d be screwed,” I responded with an air of understanding.&lt;/p&gt;
+
+&lt;p&gt;“Good, this is how real space travel works. Except the strings are
+infinitesimally thin, and your room for error is almost non-existent. The lesson
+here is, get your calcs right, always! And then maybe well get to have this
+conversation again some day.”&lt;/p&gt;
+
+&lt;p&gt;Nurbek snapped back to reality, finally gathering the courage to ask the
+lingering question.&lt;/p&gt;
+
+&lt;p&gt;“Computer, based on your survey of the cluster, will we make it out of here
+alive?”&lt;/p&gt;
+
+&lt;p&gt;The computer paused for a few seconds, as if to heighten the suspense.&lt;/p&gt;
+
+&lt;p&gt;“Unlikely, sir, but I could never be certain.”&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>NAND to MIPS</title>
@@ -100,6 +266,122 @@
 &lt;p&gt;&lt;img src=&quot;http://blog.skryl.org/assets/images/20130907/19.jpg&quot; alt=&quot;Process 11&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The swap takes a couple of hours and is well worth it if you prefer the feel of the Cherry Blue switches.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sight</title>
+   <link href="http://blog.skryl.org/2013/01/11/sight/"/>
+   <updated>2013-01-11T00:00:00+00:00</updated>
+   <id>http://blog.skryl.org/2013/01/11/sight</id>
+   <content type="html">&lt;p&gt;It was Veleriy Zyvotov’s work that finally brought an end to the AI winter. The
+Z-papers, as they became known, were a tour de force in cortical theory and
+marked the beginnings of the Brain Decade. For the next dozen or so years
+scientists would scrutinize and map every nook and cranny of the human neocortex
+in an attempt to emulate all of its quirks. The visual system was naturally one
+of the first to be dissected and trivialized. It turned out to be fairly easy to
+get a feed, an image that is, of what a person saw in their mind’s eye.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The tech quickly caught up with the research and the first HoloSight came out
+less than two years after the academic research. All you had to do was tuck the
+thing behind your ear, remember something vivid, and poof, there it was, in
+colorful holography. Problem was, most people don’t remember too well, so the
+pictures often appeared fuzzy, faceless, or distorted in a myriad ways. Still,
+there were a few whose memories held perfect impressions of reality and whose
+imaginations could paint fiction just as clearly. They were called Seers and
+they became the Beethovens and Mozarts of the modern world.  Some were
+classically trained, having had to retard their vision with a wooden brush and a
+pastel set, but most were simply dreamers who would have never survived the
+urban rat race had they lived in the decades of past.&lt;/p&gt;
+
+&lt;p&gt;As the demand grew, Sight became bidirectional and could pump all five senses
+from one person to the next. You could chain together a few or broadcast to
+millions, as long as there was enough bandwidth and memory to maintain the
+integrity of the feed. Virtual Worlds became a dime a dozen and many liked to
+jack in and tune out. They wanted to own suburban homes and have four kids, not
+live in Megablocks, breathe polluted air, and have to win a lottery in order to
+copulate. Sight gave them the escape they dreamed of and for a while they went
+back and forth between reality and utopia. They worked for food and lived for
+Sight. But something strange began to happen as more and more addicts checked
+out while on the wire. Some of their avatars persisted, the machines having had
+enough time to reverse engineer their identities, their souls. The bodies died
+but the minds kept on living. It was a welcome feature. Soon enough regular
+folks began taking their own lives, some even took their families with them.
+There was a suicide streak that went on for years and for the first time in
+modern history the population plummeted.&lt;/p&gt;
+
+&lt;p&gt;Do you know what happens when three quarters of the world’s population takes a
+dirt nap? You’d think it would be a catastrophe but it actually turned out quite
+alright. The religious nuts were the first to go. They called it “Heaven on
+Earth” and didn’t wait long to follow their beloved ministers to an imaginary
+Salvation. The oppressed, the cynical, and the power hungry went next. Everyone
+now had a choice to make, and those who stuck around all had something in
+common. They were motivated and ready to start over. After a while, clean water
+and air stopped being a commodity and there was enough food to feed everyone.
+With a universal single mindedness we began to terraform, bringing the Earth
+back to the way she was when the dinosaurs roamed, blue and green, not red and
+grey.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Forgotten</title>
+   <link href="http://blog.skryl.org/2012/10/31/forgotten/"/>
+   <updated>2012-10-31T00:00:00+00:00</updated>
+   <id>http://blog.skryl.org/2012/10/31/forgotten</id>
+   <content type="html">&lt;p&gt;It was 3am. I woke up thinking of her. I had no idea who she was but her
+presence was overwhelming. Like a black hole in my subconscious she tore
+away the foundations of any structured thought. All effort to escape her grasp
+was futile and ended in a constellation of unfamiliar memories. Her voice, her
+scent, her face… a dizzying deja vu of someone I have never met.
+  The ring of the telephone broke through the silence.
+  Stumbling out of bed I reached for the handset.
+  “Come over”, she said in a calm, stern voice.
+I remained mute, unable to shake the fog and confusion of the persistent dream.
+She hung up.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;I waited in anticipation, still dazed by the slew of unfamiliar memories running
+through my mind. The leafs began to stir as she came into view. Her dark
+hair fell down to her shoulders where a black dress was struggling to hold
+on to her slender body. As she walked, the wind played with her hair and her
+dress waved in desperation. She resonated with the darkness. She was gorgeous.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;“Drive,” she said, as she slid into the back seat.
+I obeyed. I didn’t know the way but I felt a strange sense of familiarity
+guiding me. It was as though threads of memory were being pulled out of some
+cerebral abyss and weaved back into my consciousness. With every turn she
+resurrected a part of me which I had long forgotten, piecing together a life I
+never knew I had. The picture continued to grow clearer, until I could finally
+make out our destination.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;She was gone. I stood in the middle of a forested road, staring at a tall pine
+tree which lay across both lanes. I remembered sitting on my knees next to that
+same tree, soaking wet, holding her head as she took quick shallow breaths. Her
+face was covered in lacerations, glass shards protruding from her porcelain
+skin, draining her of life. I couldn’t stop the bleeding but I did my best to
+slow it down. Leaving her side to search for the phone meant a quick death, not
+searching for it meant certain death.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;They said she would be OK… She died on the way to the hospital.
+They said my memory would come back within a few weeks… It has been five years.
+They tried to convince me of who I was… I didn’t believe them.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;I stepped over the fallen tree. The road ahead was dark, but having her by my
+side again gave me the courage to move on.&lt;/p&gt;
 </content>
  </entry>
  
