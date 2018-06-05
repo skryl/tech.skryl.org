@@ -4,7 +4,7 @@
  <title>Thoughts</title>
  <link href="http://blog.skryl.org/atom.xml" rel="self"/>
  <link href="http://blog.skryl.org/"/>
- <updated>2018-06-05T23:41:10+00:00</updated>
+ <updated>2018-06-05T23:42:35+00:00</updated>
  <id>http://blog.skryl.org</id>
  <author>
    <name>Alex Skryl</name>
@@ -186,6 +186,8 @@ alive?”&lt;/p&gt;
    <content type="html">&lt;p&gt;A crash course in computer architecture. This is a presentation I put together during my time at &lt;a href=&quot;https://recurse.com&quot;&gt;Recurse Center&lt;/a&gt; to introduce my fellow Recursers to basic CPU design.&lt;/p&gt;
 
 &lt;iframe src=&quot;//slides.com/skryl/nand-to-mips/embed&quot; width=&quot;576&quot; height=&quot;420&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
 
 &lt;div class=&quot;sharebuttons&quot;&gt;
   &lt;ul&gt;
