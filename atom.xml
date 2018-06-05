@@ -4,13 +4,24 @@
  <title>Thoughts on Code</title>
  <link href="http://blog.skryl.org/atom.xml" rel="self"/>
  <link href="http://blog.skryl.org/"/>
- <updated>2018-06-05T17:51:58+00:00</updated>
+ <updated>2018-06-05T18:16:35+00:00</updated>
  <id>http://blog.skryl.org</id>
  <author>
    <name>Alex Skryl</name>
    <email>aleksey.skryl@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>NAND to MIPS</title>
+   <link href="http://blog.skryl.org/2013/09/08/nand-to-mips/"/>
+   <updated>2013-09-08T00:00:00+00:00</updated>
+   <id>http://blog.skryl.org/2013/09/08/nand-to-mips</id>
+   <content type="html">&lt;p&gt;A crash course in computer architecture. This is a presentation I put together during my time at &lt;a href=&quot;https://recurse.com&quot;&gt;Recurse Center&lt;/a&gt; to introduce my fellow Recursers to basic CPU design.&lt;/p&gt;
+
+&lt;iframe src=&quot;//slides.com/skryl/nand-to-mips/embed&quot; width=&quot;576&quot; height=&quot;420&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The Kinesis Conversion</title>
