@@ -4,7 +4,7 @@
  <title>Thoughts</title>
  <link href="http://blog.skryl.org/atom.xml" rel="self"/>
  <link href="http://blog.skryl.org/"/>
- <updated>2018-10-17T06:14:31+00:00</updated>
+ <updated>2018-10-23T17:32:38+00:00</updated>
  <id>http://blog.skryl.org</id>
  <author>
    <name>Alex Skryl</name>
@@ -231,6 +231,10 @@ alive?”&lt;/p&gt;
   &lt;li&gt;Left and Right plastic key support - Free&lt;/li&gt;
   &lt;li&gt;Left and Right thumb cluster PCB and ribbon cable - Free&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h4 id=&quot;another-subsection&quot;&gt;Another subsection&lt;/h4&gt;
+
+&lt;p&gt;With some text&lt;/p&gt;
 
 &lt;h3 id=&quot;tools-you-will-need&quot;&gt;Tools you will need&lt;/h3&gt;
 
